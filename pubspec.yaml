@@ -1,0 +1,19 @@
+name: komkat_flutter_design_system
+description: Shared Flutter App Design System for komkat studio organization
+version: 0.1.0+1
+publish_to: https://onepub.dev/api/nonuuhnofl/
+repository: https://github.com/KomkatStudio/komkat_flutter_app_design_system
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+  flutter: ">=3.19.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  mocktail: ^1.0.4
+  very_good_analysis: ^6.0.0
